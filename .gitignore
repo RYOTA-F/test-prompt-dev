@@ -1,1 +1,10 @@
+# Github
 .commit
+
+# Next.js
+.next
+
+# Node Modules
+node_modules
+
+.DS_Store
